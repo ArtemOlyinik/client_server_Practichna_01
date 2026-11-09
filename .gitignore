@@ -1,0 +1,5 @@
+.DS_Store
+*.log
+*.test
+/client_server_Practichna_01
+/screenshots/*.tmp
